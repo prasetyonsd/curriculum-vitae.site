@@ -1,2 +1,2 @@
-# portfolio.site
-Repository untuk menimpan project membuat website portofolio
+# curriculum-vitae.site
+Repository untuk menyimpan project membuat website curriculum vitae
